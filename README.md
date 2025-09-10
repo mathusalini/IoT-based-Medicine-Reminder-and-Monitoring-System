@@ -1,5 +1,6 @@
 # IoT-based-Medicine-Reminder-and-Monitoring-System
 
+```mermaid
 flowchart TD
     A[Mobile App 📱] --> B[Set Alarm Time ⏰]
     B --> C[Send SMS via GSM 📡]
